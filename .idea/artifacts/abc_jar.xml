@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="abc:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/abc_jar</output-path>
+    <root id="root">
+      <element id="archive" name="abc.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+        </element>
+        <element id="module-output" name="abc" />
+      </element>
+      <element id="library" level="project" name="Maven: com.vividsolutions:jts-io:1.14.0" />
+      <element id="library" level="project" name="Maven: com.vividsolutions:jts-core:1.14.0" />
+      <element id="library" level="project" name="Maven: com.googlecode.json-simple:json-simple:1.1" />
+    </root>
+  </artifact>
+</component>

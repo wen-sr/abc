@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: jts-io-1.14.0.jar jts-core-1.14.0.jar json-simple-1.1.jar
+Main-Class: DrawGraphics
+
