@@ -36,4 +36,6 @@ public class MyObject {
 	public void setY_list(List<Integer> y_list) {
 		this.y_list = y_list;
 	}
+
+
 }
